@@ -9,6 +9,23 @@
       }
      
     ],
+	
+	"taskUsers": [
+      {
+        "id": 1,
+        "username": "sam",
+        "email": "sam@gmail.com",
+	"password":"1234"     
+      }
+     
+    ],
+	
+	"task": [
+      {
+        "id": 1    
+      }
+     
+    ],
     
     "books": [
       {
