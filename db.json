@@ -317,10 +317,10 @@
       {
 		"id" : 1,
 	      "name":"Sam",
-	      "place":"US",
+	      "city":"US",
 	      "location":"washington",
 	      "mobile":"1234567891",
-	      "servive":"Home Cleaning",
+	      "serviceRequired":"Home Cleaning",
 	      "status":"pending"
   
   }
