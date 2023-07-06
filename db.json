@@ -315,18 +315,29 @@
 	
 	 "orders": [
       {
-		"id" : 1,
-	      "name":"Sam",
-	      "city":"US",
-	      "location":"washington",
-	      "mobile":"1234567891",
-	      "serviceRequired":"Home Cleaning",
-	      "status":"pending"
-  
-  }
+"hours": "3",
+"maids": "3",
+"notes": "",
+"totalAmount": 540,
+"serviceName": "House Cleaning",
+"selectedDateTime": "2023-07-14T21:30:00.000Z",
+"user": {
+"firstName": "ram",
+"lastName": "s",
+"countryCode": "+91",
+"mobileNumber": "1236789432",
+"email": "ram@gmail.com",
+"password": "12345",
+"address": "Karnataka,Bangalore",
+"id": 1
+},
+"id": 1
+}
       
       
    
     ]
+
+	
 	
   }
