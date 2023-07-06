@@ -322,10 +322,10 @@
 "serviceName": "House Cleaning",
 "selectedDateTime": "2023-07-14T21:30:00.000Z",
 "user": {
-"firstName": "ram",
-"lastName": "s",
+"first_name": "ram",
+"last_name": "s",
 "countryCode": "+91",
-"mobileNumber": "1236789432",
+"mobile_number": "1236789432",
 "email": "ram@gmail.com",
 "password": "12345",
 "address": "Karnataka,Bangalore",
