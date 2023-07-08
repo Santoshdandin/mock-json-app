@@ -253,83 +253,9 @@
         "range":"SAR400 - SAR2.5k",
         "rating":4,
 	"price":60
-      },
-      {
-        "id": 13,
-        "title": "Wedding Planners",
-        "description": "Professional window and door installation and repair services.",
-        "image": "https://hometriangle.com/web/assets/images/2x-600x400/webp/wedding-planners.webp",
-        "category":"Events",
-        "range":"SAR50k - SAR6L",
-        "rating":4,
-	"price":30
-      },
-      {
-        "id": 14,
-        "title": "Party Planners",
-        "description": "Professional window and door installation and repair services.",
-        "image": "https://hometriangle.com/web/assets/images/2x-600x400/webp/party-planners.webp",
-        "category":"Events",
-        "range":"SAR6k - SAR3L",
-        "rating":4,
-	"price":80
-      },
-      {
-        "id": 15,
-        "title": "Wedding Photography",
-        "description": "Reliable moving and storage services for a stress-free relocation.",
-        "image": "https://hometriangle.com/web/assets/images/2x-600x400/webp/wedding-photography.webp",
-        "category":"Events",
-        "range":"SAR50k - SAR6L",
-        "rating":4,
-	"price":90
-      },
-      {
-        "id": 16,
-        "title": "Stage Decoration",
-        "description": "Expert bathroom remodeling services to enhance your bathroom space.",
-        "image": "https://hometriangle.com/web/assets/images/2x-600x400/webp/stage-decorator.webp",
-        "category":"Events",
-        "range":"SAR10k - SAR5L",
-        "rating":4,
-	"price":40
-      },
-      {
-        "id": 17,
-        "title": "Makeup Artist",
-        "description": "Professional kitchen remodeling services to create your dream kitchen.",
-        "image": "https://hometriangle.com/web/assets/images/2x-600x400/jpg/makeup-artist.jpg",
-        "category":"Personal",
-        "rating":4,
-	"price":65
-      },
-      {
-        "id": 18,
-        "title": "Physiotherapy",
-        "description": "Custom home theater installations and audiovisual solutions.",
-        "image": "https://hometriangle.com/web/assets/images/2x-600x400/jpg/physiotherapy.jpg",
-        "category":"Personal",
-        "rating":4,
-	"price":120
-      },
-      {
-        "id": 19,
-        "title": "Fitness Trainer",
-        "description": "Durable fencing solutions for enhanced privacy and security.",
-        "image": "https://hometriangle.com/web/assets/images/2x-600x400/jpg/fitness-trainers.jpg",
-        "category":"Personal",
-        "rating":4,
-	"price":40
-      },
-      {
-        "id": 20,
-        "title": "Swimming Classes",
-        "description": "Expert plastering and drywall services for smooth and seamless walls.",
-        "image": "https://hometriangle.com/web/assets/images/2x-600x400/jpg/swimming-classes.jpg",
-        "category":"Personal",
-        "rating":4,
-	"price":90
       }
+     
+     
 	
 	
 	],
