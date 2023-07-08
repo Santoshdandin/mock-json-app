@@ -138,7 +138,8 @@
         "image": "https://hometriangle.com/app/assets/images/cleaning-2.webp",
         "category":"Home maintainance",
         "range":"SAR2.5k - SAR25k",
-        "rating":4
+        "rating":4,
+	"price":60,
       },
       {
         "id": 2,
@@ -147,7 +148,9 @@
         "image": "https://hometriangle.com/app/assets/images/house-painting-2.webp",
         "category":"Home maintainance",
         "range":"SAR6k - SAR3L",
-        "rating":3
+        "rating":3,
+	"price":95,
+	      
       },
       {
         "id": 3,
@@ -156,7 +159,8 @@
         "image": "https://hometriangle.com/app/assets/images/watertank1.webp",
         "category":"Home maintainance",
         "range":"SAR600 - SAR4k",
-        "rating":3
+        "rating":3,
+	"price":85,
         
       },
       {
@@ -166,7 +170,8 @@
         "image": "https://hometriangle.com/app/assets/images/pest-control-1.webp",
         "category":"Home maintainance",
         "range":"SAR900 - SAR2k",
-        "rating":4
+        "rating":4,
+	"price":65,
         
       },
       {
@@ -176,7 +181,8 @@
         "image": "https://hometriangle.com/app/assets/images/home-renovation-1.webp",
         "category":"Home remodelling",
         "range":"SAR25k - SAR3L",
-        "rating":3
+        "rating":3,
+	"price":50,
       },
       {
         "id": 6,
@@ -185,7 +191,8 @@
         "image": "https://hometriangle.com/app/assets/images/kitchen-renovation.webp",
         "category":"Home remodelling",
         "range":"SAR15k - SAR1.5L",
-        "rating":3
+        "rating":3,
+	"price":80,
       },
       {
         "id": 7,
@@ -194,7 +201,8 @@
         "image": "https://hometriangle.com/app/assets/images/bathroom-renovation.webp",
         "category":"Home remodelling",
         "range":"SAR5k - SAR50k",
-        "rating":4
+        "rating":4,
+	"price":30,
       },
       {
         "id": 8,
@@ -203,7 +211,8 @@
         "image": "https://hometriangle.com/app/assets/images/mosquito-mesh-4.webp",
         "category":"Home remodelling",
         "range":"SAR3k - SAR20k",
-        "rating":4
+        "rating":4,
+	"price":40,
       },
       {
         "id": 9,
@@ -212,7 +221,8 @@
         "image": "https://hometriangle.com/app/assets/images/ac-repair-1.webp",
         "category":"Appliances",
         "range":"SAR500 - SAR5k",
-        "rating":4
+        "rating":4,
+	"price":60,
       },
       {
         "id": 10,
@@ -221,7 +231,8 @@
         "image": "https://hometriangle.com/app/assets/images/washing-machine.webp",
         "category":"Appliances",
         "range":"SAR400 - SAR6.5k",
-        "rating":4
+        "rating":4,
+	"price":90,
       },
       {
         "id": 11,
@@ -230,7 +241,8 @@
         "image": "https://hometriangle.com/app/assets/images/refrigerator.webp",
         "category":"Appliances",
         "range":"SAR400 - SAR7.5k",
-        "rating":4
+        "rating":4,
+	"price":70,
       },
       {
         "id": 12,
@@ -239,7 +251,8 @@
         "image": "https://hometriangle.com/app/assets/images/gas-stove.webp",
         "category":"Appliances",
         "range":"SAR400 - SAR2.5k",
-        "rating":4
+        "rating":4,
+	"price":60,
       },
       {
         "id": 13,
@@ -248,7 +261,8 @@
         "image": "https://hometriangle.com/web/assets/images/2x-600x400/webp/wedding-planners.webp",
         "category":"Events",
         "range":"SAR50k - SAR6L",
-        "rating":4
+        "rating":4,
+	"price":30,
       },
       {
         "id": 14,
@@ -257,7 +271,8 @@
         "image": "https://hometriangle.com/web/assets/images/2x-600x400/webp/party-planners.webp",
         "category":"Events",
         "range":"SAR6k - SAR3L",
-        "rating":4
+        "rating":4,
+	"price":80,
       },
       {
         "id": 15,
@@ -266,7 +281,8 @@
         "image": "https://hometriangle.com/web/assets/images/2x-600x400/webp/wedding-photography.webp",
         "category":"Events",
         "range":"SAR50k - SAR6L",
-        "rating":4
+        "rating":4,
+	"price":90,
       },
       {
         "id": 16,
@@ -275,7 +291,8 @@
         "image": "https://hometriangle.com/web/assets/images/2x-600x400/webp/stage-decorator.webp",
         "category":"Events",
         "range":"SAR10k - SAR5L",
-        "rating":4
+        "rating":4,
+	"price":40,
       },
       {
         "id": 17,
@@ -291,7 +308,8 @@
         "description": "Custom home theater installations and audiovisual solutions.",
         "image": "https://hometriangle.com/web/assets/images/2x-600x400/jpg/physiotherapy.jpg",
         "category":"Personal",
-        "rating":4
+        "rating":4,
+	"price":120,
       },
       {
         "id": 19,
@@ -299,7 +317,8 @@
         "description": "Durable fencing solutions for enhanced privacy and security.",
         "image": "https://hometriangle.com/web/assets/images/2x-600x400/jpg/fitness-trainers.jpg",
         "category":"Personal",
-        "rating":4
+        "rating":4,
+	"price":40,
       },
       {
         "id": 20,
@@ -307,7 +326,8 @@
         "description": "Expert plastering and drywall services for smooth and seamless walls.",
         "image": "https://hometriangle.com/web/assets/images/2x-600x400/jpg/swimming-classes.jpg",
         "category":"Personal",
-        "rating":4
+        "rating":4,
+	"price":90,
       }
 	
 	
