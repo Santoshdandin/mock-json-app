@@ -139,7 +139,7 @@
         "category":"Home maintainance",
         "range":"SAR2.5k - SAR25k",
         "rating":4,
-	"price":60,
+	"price":60
       },
       {
         "id": 2,
@@ -149,7 +149,7 @@
         "category":"Home maintainance",
         "range":"SAR6k - SAR3L",
         "rating":3,
-	"price":95,
+	"price":95
 	      
       },
       {
@@ -160,7 +160,7 @@
         "category":"Home maintainance",
         "range":"SAR600 - SAR4k",
         "rating":3,
-	"price":85,
+	"price":85
         
       },
       {
@@ -171,7 +171,7 @@
         "category":"Home maintainance",
         "range":"SAR900 - SAR2k",
         "rating":4,
-	"price":65,
+	"price":65
         
       },
       {
@@ -182,7 +182,7 @@
         "category":"Home remodelling",
         "range":"SAR25k - SAR3L",
         "rating":3,
-	"price":50,
+	"price":50
       },
       {
         "id": 6,
@@ -192,7 +192,7 @@
         "category":"Home remodelling",
         "range":"SAR15k - SAR1.5L",
         "rating":3,
-	"price":80,
+	"price":80
       },
       {
         "id": 7,
@@ -202,7 +202,7 @@
         "category":"Home remodelling",
         "range":"SAR5k - SAR50k",
         "rating":4,
-	"price":30,
+	"price":30
       },
       {
         "id": 8,
@@ -212,7 +212,7 @@
         "category":"Home remodelling",
         "range":"SAR3k - SAR20k",
         "rating":4,
-	"price":40,
+	"price":40
       },
       {
         "id": 9,
@@ -222,7 +222,7 @@
         "category":"Appliances",
         "range":"SAR500 - SAR5k",
         "rating":4,
-	"price":60,
+	"price":60
       },
       {
         "id": 10,
@@ -232,7 +232,7 @@
         "category":"Appliances",
         "range":"SAR400 - SAR6.5k",
         "rating":4,
-	"price":90,
+	"price":90
       },
       {
         "id": 11,
@@ -242,7 +242,7 @@
         "category":"Appliances",
         "range":"SAR400 - SAR7.5k",
         "rating":4,
-	"price":70,
+	"price":70
       },
       {
         "id": 12,
@@ -252,7 +252,7 @@
         "category":"Appliances",
         "range":"SAR400 - SAR2.5k",
         "rating":4,
-	"price":60,
+	"price":60
       },
       {
         "id": 13,
@@ -262,7 +262,7 @@
         "category":"Events",
         "range":"SAR50k - SAR6L",
         "rating":4,
-	"price":30,
+	"price":30
       },
       {
         "id": 14,
@@ -272,7 +272,7 @@
         "category":"Events",
         "range":"SAR6k - SAR3L",
         "rating":4,
-	"price":80,
+	"price":80
       },
       {
         "id": 15,
@@ -282,7 +282,7 @@
         "category":"Events",
         "range":"SAR50k - SAR6L",
         "rating":4,
-	"price":90,
+	"price":90
       },
       {
         "id": 16,
@@ -292,7 +292,7 @@
         "category":"Events",
         "range":"SAR10k - SAR5L",
         "rating":4,
-	"price":40,
+	"price":40
       },
       {
         "id": 17,
@@ -300,7 +300,8 @@
         "description": "Professional kitchen remodeling services to create your dream kitchen.",
         "image": "https://hometriangle.com/web/assets/images/2x-600x400/jpg/makeup-artist.jpg",
         "category":"Personal",
-        "rating":4
+        "rating":4,
+	"price":65
       },
       {
         "id": 18,
@@ -309,7 +310,7 @@
         "image": "https://hometriangle.com/web/assets/images/2x-600x400/jpg/physiotherapy.jpg",
         "category":"Personal",
         "rating":4,
-	"price":120,
+	"price":120
       },
       {
         "id": 19,
@@ -318,7 +319,7 @@
         "image": "https://hometriangle.com/web/assets/images/2x-600x400/jpg/fitness-trainers.jpg",
         "category":"Personal",
         "rating":4,
-	"price":40,
+	"price":40
       },
       {
         "id": 20,
@@ -327,7 +328,7 @@
         "image": "https://hometriangle.com/web/assets/images/2x-600x400/jpg/swimming-classes.jpg",
         "category":"Personal",
         "rating":4,
-	"price":90,
+	"price":90
       }
 	
 	
@@ -336,9 +337,9 @@
 	 "orders": [
       {
 "hours": "3",
-"maids": "3",
+"maid": "3",
 "notes": "",
-"totalAmount": 540,
+"subtotal": 540,
 "serviceName": "House Cleaning",
 "selectedDateTime": "2023-07-14T21:30:00.000Z",
 "user": {
