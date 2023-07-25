@@ -541,282 +541,282 @@
 
     "questions": [
       {
-        "question": "Select mattress qty",
+        "question": "Select mattress الكمية",
         "options": [
           {
             "type": "california king size mattress",
-            "value": "1 qty",
+            "value": "1 الكمية",
             "price": 170
           },
           {
             "type": "california king size mattress",
-            "value": "2 qty",
+            "value": "2 الكمية",
             "price": 240
           },
           {
             "type": "california king size mattress",
-            "value": "3 qty",
+            "value": "3 الكمية",
             "price": 300
           },
           {
             "type": "california king size mattress",
-            "value": "4 qty",
+            "value": "4 الكمية",
             "price": 400
           },
           {
             "type": "california king size mattress",
-            "value": "5 qty",
+            "value": "5 الكمية",
             "price": 500
           },
           {
             "type": "california king size mattress",
-            "value": "6 qty",
+            "value": "6 الكمية",
             "price": 600
           },
           {
             "type": "california king size mattress",
-            "value": "7 qty",
+            "value": "7 الكمية",
             "price": 700
           },
           {
             "type": "california king size mattress",
-            "value": "8 qty",
+            "value": "8 الكمية",
             "price": 800
           },
           {
             "type": "california king size mattress",
-            "value": "9 qty",
+            "value": "9 الكمية",
             "price": 900
           },
           {
             "type": "california king size mattress",
-            "value": "10 qty",
+            "value": "10 الكمية",
             "price": 1000
           },
           {
             "type": "King size mattress",
-            "value": "1 qty",
+            "value": "1 الكمية",
             "price": 200
           },
           {
             "type": "King size mattress",
-            "value": "2 qty",
+            "value": "2 الكمية",
             "price": 230
           },
           {
             "type": "King size mattress",
-            "value": "3 qty",
+            "value": "3 الكمية",
             "price": 290
           },
           {
             "type": "King size mattress",
-            "value": "4 qty",
+            "value": "4 الكمية",
             "price": 390
           },
-          { "type": "King size mattress", "value": "5 qty", "price": 490 },
-          { "type": "King size mattress", "value": "6 qty", "price": 590 },
-          { "type": "King size mattress", "value": "7 qty", "price": 690 },
-          { "type": "King size mattress", "value": "8 qty", "price": 790 },
-          { "type": "King size mattress", "value": "9 qty", "price": 890 },
-          { "type": "King size mattress", "value": "10 qty", "price": 990 },
+          { "type": "King size mattress", "value": "5 الكمية", "price": 490 },
+          { "type": "King size mattress", "value": "6 الكمية", "price": 590 },
+          { "type": "King size mattress", "value": "7 الكمية", "price": 690 },
+          { "type": "King size mattress", "value": "8 الكمية", "price": 790 },
+          { "type": "King size mattress", "value": "9 الكمية", "price": 890 },
+          { "type": "King size mattress", "value": "10 الكمية", "price": 990 },
           {
             "type": "Queen size mattress",
-            "value": "1 qty",
+            "value": "1 الكمية",
             "price": 200
           },
           {
             "type": "Queen size mattress",
-            "value": "2 qty",
+            "value": "2 الكمية",
             "price": 200
           },
           {
             "type": "Queen size mattress",
-            "value": "3 qty",
+            "value": "3 الكمية",
             "price": 250
           },
           {
             "type": "Queen size mattress",
-            "value": "4 qty",
+            "value": "4 الكمية",
             "price": 340
           },
           {
             "type": "Queen size mattress",
-            "value": "5 qty",
+            "value": "5 الكمية",
             "price": 400
           },
           {
             "type": "Queen size mattress",
-            "value": "6 qty",
+            "value": "6 الكمية",
             "price": 490
           },
           {
             "type": "Queen size mattress",
-            "value": "7 qty",
+            "value": "7 الكمية",
             "price": 590
           },
           {
             "type": "Queen size mattress",
-            "value": "8 qty",
+            "value": "8 الكمية",
             "price": 690
           },
           {
             "type": "Queen size mattress",
-            "value": "9 qty",
+            "value": "9 الكمية",
             "price": 790
           },
           {
             "type": "Queen size mattress",
-            "value": "10 qty",
+            "value": "10 الكمية",
             "price": 890
           },
           {
             "type": "Large size single mattress",
-            "value": "1 qty",
+            "value": "1 الكمية",
             "price": 180
           },
           {
             "type": "Large size single mattress",
-            "value": "2 qty",
+            "value": "2 الكمية",
             "price": 190
           },
           {
             "type": "Large size single mattress",
-            "value": "3 qty",
+            "value": "3 الكمية",
             "price": 280
           },
           {
             "type": "Large size single mattress",
-            "value": "4 qty",
+            "value": "4 الكمية",
             "price": 380
           },
           {
             "type": "Large size single mattress",
-            "value": "5 qty",
+            "value": "5 الكمية",
             "price": 480
           },
           {
             "type": "Large size single mattress",
-            "value": "6 qty",
+            "value": "6 الكمية",
             "price": 580
           },
           {
             "type": "Large size single mattress",
-            "value": "7 qty",
+            "value": "7 الكمية",
             "price": 680
           },
           {
             "type": "Large size single mattress",
-            "value": "8 qty",
+            "value": "8 الكمية",
             "price": 780
           },
           {
             "type": "Large size single mattress",
-            "value": "9 qty",
+            "value": "9 الكمية",
             "price": 880
           },
           {
             "type": "Large size single mattress",
-            "value": "10 qty",
+            "value": "10 الكمية",
             "price": 980
           },
           {
             "type": "Regular size single mattress",
-            "value": "1 qty",
+            "value": "1 الكمية",
             "price": 100
           },
           {
             "type": "Regular size single mattress",
-            "value": "2 qty",
+            "value": "2 الكمية",
             "price": 190
           },
           {
             "type": "Regular size single mattress",
-            "value": "3 qty",
+            "value": "3 الكمية",
             "price": 220
           },
           {
             "type": "Regular size single mattress",
-            "value": "4 qty",
+            "value": "4 الكمية",
             "price": 280
           },
           {
             "type": "Regular size single mattress",
-            "value": "5 qty",
+            "value": "5 الكمية",
             "price": 330
           },
           {
             "type": "Regular size single mattress",
-            "value": "6 qty",
+            "value": "6 الكمية",
             "price": 390
           },
           {
             "type": "Regular size single mattress",
-            "value": "7 qty",
+            "value": "7 الكمية",
             "price": 420
           },
           {
             "type": "Regular size single mattress",
-            "value": "8 qty",
+            "value": "8 الكمية",
             "price": 490
           },
           {
             "type": "Regular size single mattress",
-            "value": "9 qty",
+            "value": "9 الكمية",
             "price": 520
           },
           {
             "type": "Regular size single mattress",
-            "value": "10 qty",
+            "value": "10 الكمية",
             "price": 590
           },
           {
             "type": "baby mattress",
-            "value": "1 qty",
+            "value": "1 الكمية",
             "price": 50
           },
           {
             "type": "baby mattress",
-            "value": "2 qty",
+            "value": "2 الكمية",
             "price": 120
           },
           {
             "type": "baby mattress",
-            "value": "3 qty",
+            "value": "3 الكمية",
             "price": 180
           },
           {
             "type": "baby mattress",
-            "value": "4 qty",
+            "value": "4 الكمية",
             "price": 190
           },
           {
             "type": "baby mattress",
-            "value": "5 qty",
+            "value": "5 الكمية",
             "price": 240
           },
           {
             "type": "baby mattress",
-            "value": "6 qty",
+            "value": "6 الكمية",
             "price": 290
           },
           {
             "type": "baby mattress",
-            "value": "7 qty",
+            "value": "7 الكمية",
             "price": 330
           },
           {
             "type": "baby mattress",
-            "value": "8 qty",
+            "value": "8 الكمية",
             "price": 380
           },
           {
             "type": "baby mattress",
-            "value": "9 qty",
+            "value": "9 الكمية",
             "price": 400
           },
           {
             "type": "baby mattress",
-            "value": "10 qty",
+            "value": "10 الكمية",
             "price": 480
           }
         ]
@@ -1590,278 +1590,278 @@
         "options": [
           {
             "type": "مرتبة كاليفورنيا حجم كنج",
-            "value": "1 qty",
+            "value": "1 الكمية",
             "price": 170
           },
           {
             "type": "مرتبة كاليفورنيا حجم كنج",
-            "value": "2 qty",
+            "value": "2 الكمية",
             "price": 240
           },
           {
             "type": "مرتبة كاليفورنيا حجم كنج",
-            "value": "3 qty",
+            "value": "3 الكمية",
             "price": 300
           },
           {
             "type": "مرتبة كاليفورنيا حجم كنج",
-            "value": "4 qty",
+            "value": "4 الكمية",
             "price": 400
           },
           {
             "type": "مرتبة كاليفورنيا حجم كنج",
-            "value": "5 qty",
+            "value": "5 الكمية",
             "price": 500
           },
           {
             "type": "مرتبة كاليفورنيا حجم كنج",
-            "value": "6 qty",
+            "value": "6 الكمية",
             "price": 600
           },
           {
             "type": "مرتبة كاليفورنيا حجم كنج",
-            "value": "7 qty",
+            "value": "7 الكمية",
             "price": 700
           },
           {
             "type": "مرتبة كاليفورنيا حجم كنج",
-            "value": "8 qty",
+            "value": "8 الكمية",
             "price": 800
           },
           {
             "type": "مرتبة كاليفورنيا حجم كنج",
-            "value": "9 qty",
+            "value": "9 الكمية",
             "price": 900
           },
           {
             "type": "مرتبة كاليفورنيا حجم كنج",
-            "value": "10 qty",
+            "value": "10 الكمية",
             "price": 1000
           },
           {
             "type": "مرتبة حجم كنج ",
-            "value": "1 qty",
+            "value": "1 الكمية",
             "price": 200
           },
           {
             "type": "مرتبة حجم كنج ",
-            "value": "2 qty",
+            "value": "2 الكمية",
             "price": 230
           },
           {
             "type": "مرتبة حجم كنج ",
-            "value": "3 qty",
+            "value": "3 الكمية",
             "price": 290
           },
           {
             "type": "مرتبة حجم كنج ",
-            "value": "4 qty",
+            "value": "4 الكمية",
             "price": 390
           },
-          { "type": "مرتبة حجم كنج ", "value": "5 qty", "price": 490 },
-          { "type": "مرتبة حجم كنج ", "value": "6 qty", "price": 590 },
-          { "type": "مرتبة حجم كنج ", "value": "7 qty", "price": 690 },
-          { "type": "مرتبة حجم كنج ", "value": "8 qty", "price": 790 },
-          { "type": "مرتبة حجم كنج ", "value": "9 qty", "price": 890 },
-          { "type": "مرتبة حجم كنج ", "value": "10 qty", "price": 990 },
+          { "type": "مرتبة حجم كنج ", "value": "5 الكمية", "price": 490 },
+          { "type": "مرتبة حجم كنج ", "value": "6 الكمية", "price": 590 },
+          { "type": "مرتبة حجم كنج ", "value": "7 الكمية", "price": 690 },
+          { "type": "مرتبة حجم كنج ", "value": "8 الكمية", "price": 790 },
+          { "type": "مرتبة حجم كنج ", "value": "9 الكمية", "price": 890 },
+          { "type": "مرتبة حجم كنج ", "value": "10 الكمية", "price": 990 },
           {
             "type": "مرتبة حجم كوين",
-            "value": "1 qty",
+            "value": "1 الكمية",
             "price": 200
           },
           {
             "type": "مرتبة حجم كوين",
-            "value": "2 qty",
+            "value": "2 الكمية",
             "price": 200
           },
           {
             "type": "مرتبة حجم كوين",
-            "value": "3 qty",
+            "value": "3 الكمية",
             "price": 250
           },
           {
             "type": "مرتبة حجم كوين",
-            "value": "4 qty",
+            "value": "4 الكمية",
             "price": 340
           },
           {
             "type": "مرتبة حجم كوين",
-            "value": "5 qty",
+            "value": "5 الكمية",
             "price": 400
           },
           {
             "type": "مرتبة حجم كوين",
-            "value": "6 qty",
+            "value": "6 الكمية",
             "price": 490
           },
           {
             "type": "مرتبة حجم كوين",
-            "value": "7 qty",
+            "value": "7 الكمية",
             "price": 590
           },
           {
             "type": "مرتبة حجم كوين",
-            "value": "8 qty",
+            "value": "8 الكمية",
             "price": 690
           },
           {
             "type": "مرتبة حجم كوين",
-            "value": "9 qty",
+            "value": "9 الكمية",
             "price": 790
           },
           {
             "type": "مرتبة حجم كوين",
-            "value": "10 qty",
+            "value": "10 الكمية",
             "price": 890
           },
           {
             "type": "مرتبة فرد حجم واسع",
-            "value": "1 qty",
+            "value": "1 الكمية",
             "price": 180
           },
           {
             "type": "مرتبة فرد حجم واسع",
-            "value": "2 qty",
+            "value": "2 الكمية",
             "price": 190
           },
           {
             "type": "مرتبة فرد حجم واسع",
-            "value": "3 qty",
+            "value": "3 الكمية",
             "price": 280
           },
           {
             "type": "مرتبة فرد حجم واسع",
-            "value": "4 qty",
+            "value": "4 الكمية",
             "price": 380
           },
           {
             "type": "مرتبة فرد حجم واسع",
-            "value": "5 qty",
+            "value": "5 الكمية",
             "price": 480
           },
           {
             "type": "مرتبة فرد حجم واسع",
-            "value": "6 qty",
+            "value": "6 الكمية",
             "price": 580
           },
           {
             "type": "مرتبة فرد حجم واسع",
-            "value": "7 qty",
+            "value": "7 الكمية",
             "price": 680
           },
           {
             "type": "مرتبة فرد حجم واسع",
-            "value": "8 qty",
+            "value": "8 الكمية",
             "price": 780
           },
           {
             "type": "مرتبة فرد حجم واسع",
-            "value": "9 qty",
+            "value": "9 الكمية",
             "price": 880
           },
           {
             "type": "مرتبة فرد حجم واسع",
-            "value": "10 qty",
+            "value": "10 الكمية",
             "price": 980
           },
           {
             "type": "مرتبة فرد حجم عادي",
-            "value": "1 qty",
+            "value": "1 الكمية",
             "price": 100
           },
           {
             "type": "مرتبة فرد حجم عادي",
-            "value": "2 qty",
+            "value": "2 الكمية",
             "price": 190
           },
           {
             "type": "مرتبة فرد حجم عادي",
-            "value": "3 qty",
+            "value": "3 الكمية",
             "price": 220
           },
           {
             "type": "مرتبة فرد حجم عادي",
-            "value": "4 qty",
+            "value": "4 الكمية",
             "price": 280
           },
           {
             "type": "مرتبة فرد حجم عادي",
-            "value": "5 qty",
+            "value": "5 الكمية",
             "price": 330
           },
           {
             "type": "مرتبة فرد حجم عادي",
-            "value": "6 qty",
+            "value": "6 الكمية",
             "price": 390
           },
           {
             "type": "مرتبة فرد حجم عادي",
-            "value": "7 qty",
+            "value": "7 الكمية",
             "price": 420
           },
           {
             "type": "مرتبة فرد حجم عادي",
-            "value": "8 qty",
+            "value": "8 الكمية",
             "price": 490
           },
           {
             "type": "مرتبة فرد حجم عادي",
-            "value": "9 qty",
+            "value": "9 الكمية",
             "price": 520
           },
           {
             "type": "مرتبة فرد حجم عادي",
-            "value": "10 qty",
+            "value": "10 الكمية",
             "price": 590
           },
           {
             "type": "مرتبة أطفال",
-            "value": "1 qty",
+            "value": "1 الكمية",
             "price": 50
           },
           {
             "type": "مرتبة أطفال",
-            "value": "2 qty",
+            "value": "2 الكمية",
             "price": 120
           },
           {
             "type": "مرتبة أطفال",
-            "value": "3 qty",
+            "value": "3 الكمية",
             "price": 180
           },
           {
             "type": "مرتبة أطفال",
-            "value": "4 qty",
+            "value": "4 الكمية",
             "price": 190
           },
           {
             "type": "مرتبة أطفال",
-            "value": "5 qty",
+            "value": "5 الكمية",
             "price": 240
           },
           {
             "type": "مرتبة أطفال",
-            "value": "6 qty",
+            "value": "6 الكمية",
             "price": 290
           },
           {
             "type": "مرتبة أطفال",
-            "value": "7 qty",
+            "value": "7 الكمية",
             "price": 330
           },
           {
             "type": "مرتبة أطفال",
-            "value": "8 qty",
+            "value": "8 الكمية",
             "price": 380
           },
           {
             "type": "مرتبة أطفال",
-            "value": "9 qty",
+            "value": "9 الكمية",
             "price": 400
           },
           {
             "type": "مرتبة أطفال",
-            "value": "10 qty",
+            "value": "10 الكمية",
             "price": 480
           }
         ]
