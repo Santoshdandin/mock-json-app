@@ -1327,6 +1327,1056 @@
       }
     ]
   }
+],
+
+"arabicHomeServices":[
+  {
+    "id": 1,
+    "title": "خدمة تنظيف السجاد",
+    "description": "",
+    "details": [
+      "تنظيف الاثاث بمواد اوروبية معطرة ومعقمة ",
+      "ازالة جميع البقع المستعصية",
+      "يجف خلال ساعتين ولا يترك اثر او رائحة",
+      " ضمان ذهبي في حال وجود اي خلل او ملاحظات"
+    ],
+    "image": "https://plus.unsplash.com/premium_photo-1677234148093-0115f38be0e4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2FycGV0JTIwY2xlYW5pbmd8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+    "category": "Accessories cleaning",
+    "range": "SAR150 - SAR445",
+    "rating": 4,
+    "minPrice": 150,
+    "ordersPerDay": 6,
+    "types": null,
+    "questions": [
+      {
+        "question": "حدد حجم السجاد",
+        "options": [
+          { "value": "أقل من 22 متر مربع", "price": 150 },
+          { "value": "24 متر مربع", "price": 165 },
+          { "value": "25 متر مربع", "price": 173 },
+          { "value": "28 متر مربع", "price": 195 },
+          { "value": "30 متر مربع", "price": 208 },
+          { "value": "32 متر مربع", "price": 222 },
+          { "value": "35 متر مربع", "price": 243 },
+          { "value": "36 متر مربع", "price": 250 },
+          { "value": "40 متر مربع", "price": 275 },
+          { "value": "42 متر مربع", "price": 290 },
+          { "value": "56 متر مربع", "price": 390 },
+          { "value": "64 متر مربع", "price": 445 }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 2,
+    "title": "تعقيم المنازل والمنشآت",
+    "description": "( التعقيم بمواد امريكية وفرنسية مصرح بها من هيئة الغذاء والدواء ومعتمدة من وزارة الصحة وهي: 1-معقم 3m الامريكي .2-معقم Anios الفرنسي.",
+    "details": [
+      "تنظيف الاثاث بمواد اوروبية معطرة ومعقمة ",
+      "ازالة جميع البقع المستعصية",
+      "يجف خلال ساعتين ولا يترك اثر او رائحة",
+      " ضمان ذهبي في حال وجود اي خلل او ملاحظات"
+    ],
+    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8U3RlcmlsaXppbmclMjBvZiUyMGhvbWUlMjBzZXJ2aWNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Pest control",
+    "range": "SAR350 - SAR8000",
+    "rating": 4,
+    "minPrice": null,
+    "ordersPerDay": 6,
+    "types": {
+      "question": "Select treatment plan",
+      "options": [
+        "Single Treatment 250 m2 or Less",
+        "3 visits treatments",
+        "7 visits treatments",
+        "12 VisitsTreatments"
+      ]
+    },
+    "questions": [
+      {
+        "question": "Select area Size",
+        "options": [
+          {
+            "type": "Single Treatment 250 m2 or Less",
+            "value": "Area Size 0-249 SQM",
+            "price": 350
+          },
+          {
+            "type": "Single Treatment 250 m2 or Less",
+            "value": "Area Size 250-500 SQM",
+            "price": 600
+          },
+          {
+            "type": "Single Treatment 250 m2 or Less",
+            "value": "Area More than 500 SQM",
+            "price": 50
+          },
+          {
+            "type": "3 visits treatments",
+            "value": "Area Size 0-249 SQM",
+            "price": 1350
+          },
+          {
+            "type": "3 visits treatments",
+            "value": "Area Size 250-500 SQM",
+            "price": 2000
+          },
+          {
+            "type": "3 visits treatments",
+            "value": "Area More than 500 SQM",
+            "price": 50
+          },
+          {
+            "type": "7 visits treatments",
+            "value": "Area Size 0-249 SQM",
+            "price": 3000
+          },
+          {
+            "type": "7 visits treatments",
+            "value": "Area Size 250-500 SQM",
+            "price": 5000
+          },
+          {
+            "type": "7 visits treatments",
+            "value": "Area More than 500 SQM",
+            "price": 50
+          },
+          {
+            "type": "12 VisitsTreatments",
+            "value": "Area Size 0-249 SQM",
+            "price": 5000
+          },
+          {
+            "type": "12 VisitsTreatments",
+            "value": "Area Size 250-500 SQM",
+            "price": 8000
+          },
+          {
+            "type": "12 VisitsTreatments",
+            "value": "Area More than 500 SQM",
+            "price": 50
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 3,
+    "title": "خدمة تنظيف المجالس",
+    "description": "",
+    "details": [
+      "تنظيف عميق للجلسة بأجهزة تنظيف خاصه. ",
+      "تنظيف السجاد والستائر.",
+      "تنظيف الطاولات والنوافذ مفاتيح الكهرباء",
+      "نظيف خفيف للمجلس يشمل: تنظيف عادي للجلسة بشفط الغبار والأتربة المترسبة فيه. ",
+      "تكلفة اضافية لتنظيف الاكسسوارات والتحف والثريات ونحوه"
+    ],
+    "image": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8TWFqYWxlcyUyMGRlZXAlMjBjbGVhbmluZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "category": "Accessories cleaning",
+    "range": "SAR250 - SAR400",
+    "rating": 4,
+    "minPrice": null,
+    "ordersPerDay": 2,
+    "types": {
+      "question": "نوع التنظيف",
+      "options": ["تنظيف عميق", "تنظيف خفيف"]
+    },
+
+    "questions": [
+      {
+        "question": "حجم المجلس",
+        "options": [
+          {
+            "type": "تنظيف عميق",
+            "value": "صغير (20 متر مربع أو أقل)",
+            "price": 320
+          },
+          {
+            "type": "تنظيف عميق",
+            "value": "كبير ( 21 متر مربع - 35 متر مربع )",
+            "price": 399
+          },
+          {
+            "type": "تنظيف خفيف",
+            "value": "صغير (20 متر مربع أو أقل)",
+            "price": 250
+          },
+          {
+            "type": "تنظيف خفيف",
+            "value": "كبير ( 21 متر مربع - 35 متر مربع )",
+            "price": 300
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 4,
+    "title": "خدمة تنظيف المطبخ",
+    "description": "التنظيف العميق للمطبخ يتم فيها، تنظيف الجدران والأرضيات - الشبابيك والمراويح - الدواليب من الخارج - الأجهزة المنزلية للمطبخ",
+    "details": [
+      "تنظيف الاثاث بمواد اوروبية معطرة ومعقمة ",
+      "ازالة جميع البقع المستعصية",
+      "يجف خلال ساعتين ولا يترك اثر او رائحة",
+      " ضمان ذهبي في حال وجود اي خلل او ملاحظات"
+    ],
+    "image": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fGtpdGNoZW4lMjBkZWVwJTIwY2xlYW5pbmd8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+    "category": "Home cleaning",
+    "range": "SAR300 - SAR500",
+    "rating": 4,
+    "minPrice": 150,
+    "ordersPerDay": 2,
+    "questions": [
+      {
+        "question": "نوع المطبخ",
+        "options": [
+          {
+            "value": "مطبخ داخلي لفيلا ( 20 متر مربع أو أقل )",
+            "price": 350
+          },
+          {
+            "value": "مطبخ خارجي لفيلا ( 20 متر مربع أو أقل )",
+            "price": 350
+          },
+          {
+            "value": "مطبخ داخلي لفيلا ( 21 متر مربع إلى 35 متر مربع )",
+            "price": 400
+          },
+          {
+            "value": "مطبخ خارجي لفيلا ( 21 متر مربع إلى 35 متر مربع )",
+            "price": 450
+          },
+          { "value": "مطبخ شقة", "price": 320 },
+          { "value": "مطبخ مطعم", "price": 50 }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 5,
+    "title": "خدمة تنظيف المراتب",
+    "description": "",
+    "details": [
+      "تنظيف الاثاث بمواد اوروبية معطرة ومعقمة ",
+      "ازالة جميع البقع المستعصية",
+      "يجف خلال ساعتين ولا يترك اثر او رائحة",
+      " ضمان ذهبي في حال وجود اي خلل او ملاحظات"
+    ],
+    "image": "https://images.unsplash.com/photo-1561316441-2ab442340b55?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWF0cmVzcyUyMGNsZWFuaW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Accessories cleaning",
+    "range": "SAR170 - SAR500",
+    " rating": 4,
+    "minPrice": 150,
+    "ordersPerDay": 2,
+    "types": {
+      "question": "نوع المرتبه",
+      "options": [
+        "مرتبة كاليفورنيا حجم كنج",
+        "مرتبة حجم كنج ",
+        "مرتبة حجم كوين",
+        "مرتبة فرد حجم واسع",
+        "مرتبة فرد حجم عادي",
+        "مرتبة أطفال"
+      ]
+    },
+
+    "questions": [
+      {
+        "question": "الكمية",
+        "options": [
+          {
+            "type": "مرتبة كاليفورنيا حجم كنج",
+            "value": "1 qty",
+            "price": 170
+          },
+          {
+            "type": "مرتبة كاليفورنيا حجم كنج",
+            "value": "2 qty",
+            "price": 240
+          },
+          {
+            "type": "مرتبة كاليفورنيا حجم كنج",
+            "value": "3 qty",
+            "price": 300
+          },
+          {
+            "type": "مرتبة كاليفورنيا حجم كنج",
+            "value": "4 qty",
+            "price": 400
+          },
+          {
+            "type": "مرتبة كاليفورنيا حجم كنج",
+            "value": "5 qty",
+            "price": 500
+          },
+          {
+            "type": "مرتبة كاليفورنيا حجم كنج",
+            "value": "6 qty",
+            "price": 600
+          },
+          {
+            "type": "مرتبة كاليفورنيا حجم كنج",
+            "value": "7 qty",
+            "price": 700
+          },
+          {
+            "type": "مرتبة كاليفورنيا حجم كنج",
+            "value": "8 qty",
+            "price": 800
+          },
+          {
+            "type": "مرتبة كاليفورنيا حجم كنج",
+            "value": "9 qty",
+            "price": 900
+          },
+          {
+            "type": "مرتبة كاليفورنيا حجم كنج",
+            "value": "10 qty",
+            "price": 1000
+          },
+          {
+            "type": "مرتبة حجم كنج ",
+            "value": "1 qty",
+            "price": 200
+          },
+          {
+            "type": "مرتبة حجم كنج ",
+            "value": "2 qty",
+            "price": 230
+          },
+          {
+            "type": "مرتبة حجم كنج ",
+            "value": "3 qty",
+            "price": 290
+          },
+          {
+            "type": "مرتبة حجم كنج ",
+            "value": "4 qty",
+            "price": 390
+          },
+          { "type": "مرتبة حجم كنج ", "value": "5 qty", "price": 490 },
+          { "type": "مرتبة حجم كنج ", "value": "6 qty", "price": 590 },
+          { "type": "مرتبة حجم كنج ", "value": "7 qty", "price": 690 },
+          { "type": "مرتبة حجم كنج ", "value": "8 qty", "price": 790 },
+          { "type": "مرتبة حجم كنج ", "value": "9 qty", "price": 890 },
+          { "type": "مرتبة حجم كنج ", "value": "10 qty", "price": 990 },
+          {
+            "type": "مرتبة حجم كوين",
+            "value": "1 qty",
+            "price": 200
+          },
+          {
+            "type": "مرتبة حجم كوين",
+            "value": "2 qty",
+            "price": 200
+          },
+          {
+            "type": "مرتبة حجم كوين",
+            "value": "3 qty",
+            "price": 250
+          },
+          {
+            "type": "مرتبة حجم كوين",
+            "value": "4 qty",
+            "price": 340
+          },
+          {
+            "type": "مرتبة حجم كوين",
+            "value": "5 qty",
+            "price": 400
+          },
+          {
+            "type": "مرتبة حجم كوين",
+            "value": "6 qty",
+            "price": 490
+          },
+          {
+            "type": "مرتبة حجم كوين",
+            "value": "7 qty",
+            "price": 590
+          },
+          {
+            "type": "مرتبة حجم كوين",
+            "value": "8 qty",
+            "price": 690
+          },
+          {
+            "type": "مرتبة حجم كوين",
+            "value": "9 qty",
+            "price": 790
+          },
+          {
+            "type": "مرتبة حجم كوين",
+            "value": "10 qty",
+            "price": 890
+          },
+          {
+            "type": "مرتبة فرد حجم واسع",
+            "value": "1 qty",
+            "price": 180
+          },
+          {
+            "type": "مرتبة فرد حجم واسع",
+            "value": "2 qty",
+            "price": 190
+          },
+          {
+            "type": "مرتبة فرد حجم واسع",
+            "value": "3 qty",
+            "price": 280
+          },
+          {
+            "type": "مرتبة فرد حجم واسع",
+            "value": "4 qty",
+            "price": 380
+          },
+          {
+            "type": "مرتبة فرد حجم واسع",
+            "value": "5 qty",
+            "price": 480
+          },
+          {
+            "type": "مرتبة فرد حجم واسع",
+            "value": "6 qty",
+            "price": 580
+          },
+          {
+            "type": "مرتبة فرد حجم واسع",
+            "value": "7 qty",
+            "price": 680
+          },
+          {
+            "type": "مرتبة فرد حجم واسع",
+            "value": "8 qty",
+            "price": 780
+          },
+          {
+            "type": "مرتبة فرد حجم واسع",
+            "value": "9 qty",
+            "price": 880
+          },
+          {
+            "type": "مرتبة فرد حجم واسع",
+            "value": "10 qty",
+            "price": 980
+          },
+          {
+            "type": "مرتبة فرد حجم عادي",
+            "value": "1 qty",
+            "price": 100
+          },
+          {
+            "type": "مرتبة فرد حجم عادي",
+            "value": "2 qty",
+            "price": 190
+          },
+          {
+            "type": "مرتبة فرد حجم عادي",
+            "value": "3 qty",
+            "price": 220
+          },
+          {
+            "type": "مرتبة فرد حجم عادي",
+            "value": "4 qty",
+            "price": 280
+          },
+          {
+            "type": "مرتبة فرد حجم عادي",
+            "value": "5 qty",
+            "price": 330
+          },
+          {
+            "type": "مرتبة فرد حجم عادي",
+            "value": "6 qty",
+            "price": 390
+          },
+          {
+            "type": "مرتبة فرد حجم عادي",
+            "value": "7 qty",
+            "price": 420
+          },
+          {
+            "type": "مرتبة فرد حجم عادي",
+            "value": "8 qty",
+            "price": 490
+          },
+          {
+            "type": "مرتبة فرد حجم عادي",
+            "value": "9 qty",
+            "price": 520
+          },
+          {
+            "type": "مرتبة فرد حجم عادي",
+            "value": "10 qty",
+            "price": 590
+          },
+          {
+            "type": "مرتبة أطفال",
+            "value": "1 qty",
+            "price": 50
+          },
+          {
+            "type": "مرتبة أطفال",
+            "value": "2 qty",
+            "price": 120
+          },
+          {
+            "type": "مرتبة أطفال",
+            "value": "3 qty",
+            "price": 180
+          },
+          {
+            "type": "مرتبة أطفال",
+            "value": "4 qty",
+            "price": 190
+          },
+          {
+            "type": "مرتبة أطفال",
+            "value": "5 qty",
+            "price": 240
+          },
+          {
+            "type": "مرتبة أطفال",
+            "value": "6 qty",
+            "price": 290
+          },
+          {
+            "type": "مرتبة أطفال",
+            "value": "7 qty",
+            "price": 330
+          },
+          {
+            "type": "مرتبة أطفال",
+            "value": "8 qty",
+            "price": 380
+          },
+          {
+            "type": "مرتبة أطفال",
+            "value": "9 qty",
+            "price": 400
+          },
+          {
+            "type": "مرتبة أطفال",
+            "value": "10 qty",
+            "price": 480
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 6,
+    "title": "خدمة تنظيف الستائر",
+    "description": "خدمة الغسيل والتجفيف بنفس المكان والستارة راكبة",
+    "details": [
+      "تنظيف الاثاث بمواد اوروبية معطرة ومعقمة ",
+      "ازالة جميع البقع المستعصية",
+      "يجف خلال ساعتين ولا يترك اثر او رائحة",
+      " ضمان ذهبي في حال وجود اي خلل او ملاحظات"
+    ],
+    "image": "https://plus.unsplash.com/premium_photo-1678304224375-2c0052a1b4ae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y3VydGFpbiUyMGNsZWFuaW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Accessories cleaning",
+    "range": "SAR150 - SAR640",
+    "rating": 4,
+    "minPrice": 150,
+    "ordersPerDay": 4,
+    "types": null,
+    "questions": [
+      {
+        "question": "حجم الستاره",
+        "options": [
+          { "value": "أقل من 16 متر مربع", "price": 150 },
+          { "value": "16 متر مربع", "price": 160 },
+          { "value": "18 متر مربع", "price": 180 },
+          { "value": "20 متر مربع", "price": 200 },
+          { "value": "21 متر مربع", "price": 210 },
+          { "value": "24 متر مربع", "price": 240 },
+          { "value": "25 متر مربع", "price": 250 },
+          { "value": "28 متر مربع", "price": 280 },
+          { "value": "30 متر مربع", "price": 300 },
+          { "value": "32 متر مربع", "price": 320 },
+          { "value": "35 متر مربع", "price": 350 },
+          { "value": "36 متر مربع", "price": 360 },
+          { "value": "40 متر مربع", "price": 400 },
+          { "value": "42 متر مربع", "price": 420 },
+          { "value": "56 متر مربع", "price": 560 },
+          { "value": "64 متر مربع", "price": 640 }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 7,
+    "title": "خدمة التنظيف العميق للشقق والفلل",
+    "description": "التنظيف العميق يتم فيها تنظيف الشقق والفلل بالكامل مع الأثاث أو بدون الأثاث من جدران وشبابيك وارضيات وغرف نوم ومطابخ وحمامات",
+    "details": [
+      "تنظيف الاثاث بمواد اوروبية معطرة ومعقمة ",
+      "ازالة جميع البقع المستعصية",
+      "يجف خلال ساعتين ولا يترك اثر او رائحة",
+      " ضمان ذهبي في حال وجود اي خلل او ملاحظات"
+    ],
+    "image": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8TWFqYWxlcyUyMGRlZXAlMjBjbGVhbmluZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "category": "Home cleaning",
+    "range": "SAR2.5k - SAR25k",
+    "rating": 4,
+    "minPrice": null,
+    "ordersPerDay": 2,
+    "types": {
+      "question": "الأثاث",
+      "options": ["مع الأثاث", "بدون الأثاث"]
+    },
+
+    "questions": [
+      {
+        "question": "مكان التنظيف",
+        "options": [
+          {
+            "type": "مع الأثاث",
+            "value": "شقه بغرفة نوم - صاله - مجلس - حمامات ومطبخ",
+            "price": 50
+          },
+          {
+            "type": "مع الأثاث",
+            "value": "شقه بغرفتين نوم - صاله - مجلس - حمامات ومطبخ",
+            "price": 50
+          },
+          {
+            "type": "مع الأثاث",
+            "value": "شقه ب 3 غرف نوم - 2 صاله - مجلس - حمامات ومطبخ",
+            "price": 50
+          },
+          {
+            "type": "مع الأثاث",
+            "value": "فيلا بغرفتين نوم - 2 صاله - 1 مجلس - حمامات ومطبخ",
+            "price": 50
+          },
+          {
+            "type": "مع الأثاث",
+            "value": "فيلا ب 3 غرف نوم - 2 صاله - 2 مجلس - حمامات ومطبخ",
+            "price": 50
+          },
+          {
+            "type": "مع الأثاث",
+            "value": "فيلا ب 4 غرف نوم - 2 صاله - 2 مجلس - حمامات ومطبخ",
+            "price": 50
+          },
+          {
+            "type": "بدون الأثاث",
+            "value": "شقه بغرفة نوم - صاله - مجلس - حمامات ومطبخ",
+            "price": 50
+          },
+          {
+            "type": "بدون الأثاث",
+            "value": "شقه بغرفتين نوم - صاله - مجلس - حمامات ومطبخ",
+            "price": 50
+          },
+          {
+            "type": "بدون الأثاث",
+            "value": "شقه ب 3 غرف نوم - 2 صاله - مجلس - حمامات ومطبخ",
+            "price": 50
+          },
+          {
+            "type": "بدون الأثاث",
+            "value": "فيلا بغرفتين نوم - 2 صاله - 1 مجلس - حمامات ومطبخ",
+            "price": 50
+          },
+          {
+            "type": "بدون الأثاث",
+            "value": "فيلا ب 3 غرف نوم - 2 صاله - 2 مجلس - حمامات ومطبخ",
+            "price": 50
+          },
+          {
+            "type": "بدون الأثاث",
+            "value": "فيلا ب 4 غرف نوم - 2 صاله - 2 مجلس - حمامات ومطبخ",
+            "price": 50
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 8,
+    "title": "تنظيف وتلميع الأرضيات",
+    "description": "",
+    "details": [
+      "- تكلفة الخدمة الموضحة هي للزيارة والمعاينة، ويحدد المبلغ النهائي للخدمة بعد الزيارة",
+      "- تقدم الخدمة تنظيف أو جلي أو تلميع الأرضيات، وبحسب نوع الخدمة المطلوبة من العميل",
+      "- يتم التركيز على إزالة الأوساخ من المسام وإزالة البقع واستعادة اللمعان.",
+      "- الخدمة مقدمة لجميع أنواع الأرضيات من رخام وسيراميك وبورسلان وبلاط موزاييكو.",
+      "- فريق محترف لتقديم الخدمة."
+    ],
+    "image": "https://plus.unsplash.com/premium_photo-1677234148093-0115f38be0e4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2FycGV0JTIwY2xlYW5pbmd8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+    "category": "Home cleaning",
+    "range": "SAR200k - SAR1000",
+    "rating": 4,
+    "minPrice": 150,
+    "ordersPerDay": 2,
+    "types": null,
+    "questions": [
+      {
+        "question": "نوع البلاط",
+        "options": [
+          { "value": "بلاط موزاييكو", "price": 50 },
+          { "value": "رخام", "price": 50 },
+          { "value": "سيراميك", "price": 50 },
+          { "value": "بورسلان", "price": 50 },
+          { "value": "باركيه", "price": 50 },
+          { "value": "جيرانيت", "price": 50 }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 9,
+    "title": "خدمة تنظيف الأثاث",
+    "description": "ملاحظة: يتم تسعيرة الأصناف بسعر تنظيف القطعه",
+    "details": [
+      "تنظيف الاثاث بمواد اوروبية معطرة ومعقمة ",
+      "ازالة جميع البقع المستعصية",
+      "يجف خلال ساعتين ولا يترك اثر او رائحة",
+      " ضمان ذهبي في حال وجود اي خلل او ملاحظات"
+    ],
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGZ1cm5pdHVyZSUyMGNsZWFuaW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Accessories cleaning",
+    "range": "SAR20 - SAR300",
+    " rating": 4,
+    "minPrice": 180,
+    "ordersPerDay": 2,
+    "types": {
+      "question": "نوع الأثــاث",
+      "options": ["اثاث قطن", "أثاث شمواه", "أثاث جلد"]
+    },
+
+    "questions": [
+      {
+        "question": "نوع الأثــاث",
+        "options": [
+          {
+            "type": "اثاث قطن",
+            "value": "كرسي خشب مع مسند لليد لغرفة المعيشة",
+            "price": 30
+          },
+          {
+            "type": "اثاث قطن",
+            "value": "كرسي لغرفة المعيشة",
+            "price": 30
+          },
+          {
+            "type": "اثاث قطن",
+            "value": "أريكة  بمقعدين",
+            "price": 70
+          },
+          {
+            "type": "اثاث قطن",
+            "value": "أريكة  ب 3 مقاعد",
+            "price": 90
+          },
+          {
+            "type": "اثاث قطن",
+            "value": "أريكة  ب 4 مقاعد",
+            "price": 120
+          },
+          {
+            "type": "اثاث قطن",
+            "value": "اريكة على شكل حرف L",
+            "price": 180
+          },
+          {
+            "type": "اثاث قطن",
+            "value": "كرسي مائدة طعام، قاعدة و ظهر",
+            "price": 25
+          },
+          {
+            "type": "اثاث قطن",
+            "value": "كرسي مائدة طعام، قاعدة فقط",
+            "price": 20
+          },
+
+          {
+            "type": "أثاث شمواه",
+            "value": "كرسي خشب مع مسند لليد لغرفة المعيشة",
+            "price": 45
+          },
+          {
+            "type": "أثاث شمواه",
+            "value": "كرسي لغرفة المعيشة",
+            "price": 45
+          },
+          {
+            "type": "أثاث شمواه",
+            "value": "أريكة  بمقعدين",
+            "price": 100
+          },
+          {
+            "type": "أثاث شمواه",
+            "value": "أريكة  ب 3 مقاعد",
+            "price": 150
+          },
+          {
+            "type": "أثاث شمواه",
+            "value": "أريكة  ب 4 مقاعد",
+            "price": 190
+          },
+          {
+            "type": "أثاث شمواه",
+            "value": "اريكة على شكل حرف L",
+            "price": 300
+          },
+          {
+            "type": "أثاث شمواه",
+            "value": "كرسي مائدة طعام، قاعدة و ظهر",
+            "price": 35
+          },
+          {
+            "type": "أثاث شمواه",
+            "value": "كرسي مائدة طعام، قاعدة فقط",
+            "price": 25
+          },
+
+          {
+            "type": "أثاث جلد",
+            "value": "كرسي خشب مع مسند لليد لغرفة المعيشة",
+            "price": 45
+          },
+          {
+            "type": "أثاث جلد",
+            "value": "كرسي لغرفة المعيشة",
+            "price": 45
+          },
+          {
+            "type": "أثاث جلد",
+            "value": "أريكة  بمقعدين",
+            "price": 100
+          },
+          {
+            "type": "أثاث جلد",
+            "value": "أريكة  ب 3 مقاعد",
+            "price": 150
+          },
+          {
+            "type": "أثاث جلد",
+            "value": "أريكة  ب 4 مقاعد",
+            "price": 170
+          },
+          {
+            "type": "أثاث جلد",
+            "value": "اريكة على شكل حرف L",
+            "price": 300
+          },
+          {
+            "type": "أثاث جلد",
+            "value": "كرسي مائدة طعام، قاعدة و ظهر",
+            "price": 35
+          },
+          {
+            "type": "أثاث جلد",
+            "value": "كرسي مائدة طعام، قاعدة فقط",
+            "price": 25
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 10,
+    "title": "خدمة مكافحة الحشرات",
+    "description": "",
+    "details": [
+      "تنظيف الاثاث بمواد اوروبية معطرة ومعقمة ",
+      "ازالة جميع البقع المستعصية",
+      "يجف خلال ساعتين ولا يترك اثر او رائحة",
+      " ضمان ذهبي في حال وجود اي خلل او ملاحظات"
+    ],
+    "image": "https://plus.unsplash.com/premium_photo-1661304818621-0fceeb066f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fHBlc3QlMjBjb250cm9sfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Pest control",
+    "range": "SAR199 - SAR350",
+    " rating": 4,
+    "minPrice": 180,
+    "ordersPerDay": 3,
+    "types": {
+      "question": "نوع المكافحة",
+      "options": [
+        "القوارض",
+        "بق الفراش / قراد البراغيث",
+        " النحل / الدبابير",
+        "مكافحة حشرات عامة"
+      ]
+    },
+
+    "questions": [
+      {
+        "question": "نوع المكافحة",
+        "options": [
+          {
+            "type": "القوارض",
+            "value": "شقة بغرفة نوم مع ملحقاتها",
+            "price": 199
+          },
+          {
+            "type": "القوارض",
+            "value": "شقة بغرفتين نوم مع ملحقاتها",
+            "price": 199
+          },
+          {
+            "type": "القوارض",
+            "value": "شقة ب 3 غرف نوم مع ملحقاتها",
+            "price": 200
+          },
+          {
+            "type": "القوارض",
+            "value": "فيلا بغرفتين نوم مع ملحقاتها",
+            "price": 200
+          },
+          {
+            "type": "القوارض",
+            "value": "فيلا ب 3 غرف نوم مع ملحقاتها",
+            "price": 250
+          },
+          {
+            "type": "القوارض",
+            "value": "فيلا ب 4 غرف نوم مع ملحقاتها",
+            "price": 250
+          },
+          {
+            "type": "بق الفراش / قراد البراغيث",
+            "value": "شقة بغرفة نوم مع ملحقاتها",
+            "price": 199
+          },
+          {
+            "type": "بق الفراش / قراد البراغيث",
+            "value": "شقة بغرفتين نوم مع ملحقاتها",
+            "price": 199
+          },
+          {
+            "type": "بق الفراش / قراد البراغيث",
+            "value": "شقة ب 3 غرف نوم مع ملحقاتها",
+            "price": 200
+          },
+          {
+            "type": "بق الفراش / قراد البراغيث",
+            "value": "فيلا بغرفتين نوم مع ملحقاتها",
+            "price": 200
+          },
+          {
+            "type": "بق الفراش / قراد البراغيث",
+            "value": "فيلا ب 3 غرف نوم مع ملحقاتها",
+            "price": 250
+          },
+          {
+            "type": "بق الفراش / قراد البراغيث",
+            "value": "فيلا ب 4 غرف نوم مع ملحقاتها",
+            "price": 250
+          },
+          {
+            "type": " النحل / الدبابير",
+            "value": "شقة بغرفة نوم مع ملحقاتها",
+            "price": 199
+          },
+          {
+            "type": " النحل / الدبابير",
+            "value": "شقة بغرفتين نوم مع ملحقاتها",
+            "price": 199
+          },
+          {
+            "type": " النحل / الدبابير",
+            "value": "شقة ب 3 غرف نوم مع ملحقاتها",
+            "price": 200
+          },
+          {
+            "type": " النحل / الدبابير",
+            "value": "فيلا بغرفتين نوم مع ملحقاتها",
+            "price": 200
+          },
+          {
+            "type": " النحل / الدبابير",
+            "value": "فيلا ب 3 غرف نوم مع ملحقاتها",
+            "price": 250
+          },
+          {
+            "type": " النحل / الدبابير",
+            "value": "فيلا ب 4 غرف نوم مع ملحقاتها",
+            "price": 250
+          },
+          {
+            "type": "مكافحة حشرات عامة",
+            "value": "شقة بغرفة نوم مع ملحقاتها",
+            "price": 199
+          },
+          {
+            "type": "مكافحة حشرات عامة",
+            "value": "شقة بغرفتين نوم مع ملحقاتها",
+            "price": 199
+          },
+          {
+            "type": "مكافحة حشرات عامة",
+            "value": "شقة ب 3 غرف نوم مع ملحقاتها",
+            "price": 200
+          },
+          {
+            "type": "مكافحة حشرات عامة",
+            "value": "فيلا بغرفتين نوم مع ملحقاتها",
+            "price": 200
+          },
+          {
+            "type": "مكافحة حشرات عامة",
+            "value": "فيلا ب 3 غرف نوم مع ملحقاتها",
+            "price": 250
+          },
+          {
+            "type": "مكافحة حشرات عامة",
+            "value": "فيلا ب 4 غرف نوم مع ملحقاتها",
+            "price": 250
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 11,
+    "title": "العناية بالمساجد",
+    "description": "هذه الخدمة مخصصة للعناية بالمساجد من خلال تقديم خدمة تنظيف السجاد مع التعقيم تشمل الخدمة على:",
+    "details": [
+      "- تنظيف السجاد بواسطة مكائن مخصصة مع تعطير السجاد",
+      "- تنظيف الأرضيات المحيطة بالسجاد",
+      "- تنظيف الجدران الداخلية إلى مترين وإزالة الغبار من على الأرفف",
+      "- تعقيم المسجد بعد الانتهاء من الخدمة مجانا",
+      "ملاحظة: تنظيف مرافق المسجد (تكلفة اضافية تحدد بحسب الطلب وبعد الزيارة)"
+    ],
+    "image": "https://images.unsplash.com/photo-1549565398-b8d75023348e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fE1vc3F1ZSUyMGNhcmV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+    "category": "Home cleaning",
+    "range": "SAR2.5k - SAR25k",
+    "rating": 4,
+    "minPrice": 150,
+    "ordersPerDay": 2,
+    "types": null,
+    "questions": [
+      {
+        "question": "مساحة المسجد",
+        "options": [
+          { "value": "مساحة أقل من 200 متر مربع", "price": 800 },
+          { "value": "مساحة ما بين 200 إلى 300 متر مربع", "price": 1100 },
+          {
+            "value": "مساحة ما بين 300 إلى 1000 متر مربع",
+            "price": "5 ريال للمتر الواحد"
+          },
+          {
+            "value": "مساحة أكبر من 1000 متر مربع",
+            "price": "4 ريال للمتر الواحد"
+          }
+        ]
+      }
+    ]
+  }
 ]
 
 	
