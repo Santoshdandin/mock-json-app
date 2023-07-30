@@ -2376,6 +2376,27 @@
         ]
       }
     ]
+  },
+	{
+    "id": 12,
+    "title": "cosmo package",
+    "description": "هذه الخدمة مخصصة للعناية بالمساجد من خلال تقديم خدمة تنظيف السجاد مع التعقيم تشمل الخدمة على:",
+    "details": [
+      "- تنظيف السجاد بواسطة مكائن مخصصة مع تعطير السجاد",
+      "- تنظيف الأرضيات المحيطة بالسجاد",
+      "- تنظيف الجدران الداخلية إلى مترين وإزالة الغبار من على الأرفف",
+      "- تعقيم المسجد بعد الانتهاء من الخدمة مجانا",
+      "ملاحظة: تنظيف مرافق المسجد (تكلفة اضافية تحدد بحسب الطلب وبعد الزيارة)"
+    ],
+    "image": "https://images.unsplash.com/photo-1549565398-b8d75023348e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fE1vc3F1ZSUyMGNhcmV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+    "category": "Cosmetic package",
+    "range": "SAR800 - SAR3000",
+    "rating": 4,
+    "minPrice": 150,
+    "ordersPerDay": 2,
+    "types": null,
+"price":320
+  
   }
 ]
 
