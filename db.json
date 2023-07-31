@@ -2526,6 +2526,274 @@
     "types": {
       "options": []
     }
+  },
+{
+    "id": 18,
+    "title": "بكج الراحة",
+    "description": "",
+    "details": [
+      "مساج استرخاء",
+      "حمام مغربي",
+      "بدكير ومنكير"
+    ],
+    "image": "https://images.unsplash.com/photo-1487412912498-0447578fcca8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJyaWRlJTIwbWFrZXVwfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Special beauty packages",
+    "range": "SAR380",
+    "rating": 4,
+    "minPrice": 380,
+    "ordersPerDay": 2,
+    "price": 380,
+    "questions": [],
+    "types": {
+      "options": []
+    }
+  },
+
+  {
+    "id": 19,
+    "title": "بكج الهدوء",
+    "description": "",
+    "details": ["مساج سويدي", "بدكير ومنكير", "برافين يد وارجل"],
+    "image": "https://images.unsplash.com/photo-1487412912498-0447578fcca8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJyaWRlJTIwbWFrZXVwfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Special beauty packages",
+    "range": "SAR320",
+    "rating": 4,
+    "minPrice": 320,
+    "ordersPerDay": 2,
+    "price": 320,
+    "questions": [],
+    "types": {
+      "options": []
+    }
+  },
+  {
+    "id": 20,
+    "title": "بكج السعادة",
+    "description": "",
+    "details": ["برافين يد وارجل","مساج استرخاء","بدكير ومنكير"],
+    "image": "https://images.unsplash.com/photo-1487412912498-0447578fcca8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJyaWRlJTIwbWFrZXVwfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Special beauty packages",
+    "range": "SAR299",
+    "rating": 4,
+    "minPrice": 299,
+    "ordersPerDay": 2,
+    "price": 299,
+    "questions": [],
+    "types": {
+      "options": []
+    }
+  },
+
+  {
+    "id": 21,
+    "title":"بكج الذهبي",
+    "description": "",
+    "details": ["تنظيف بشره او حمام مغربي","بدكير ومنكير","مساج ساعه من اختيارك"],
+    "image": "https://images.unsplash.com/photo-1487412912498-0447578fcca8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJyaWRlJTIwbWFrZXVwfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Special beauty packages",
+    "range": "SAR599",
+    "rating": 4,
+    "minPrice": 599,
+    "ordersPerDay": 2,
+    "price": 599,
+    "questions": [],
+    "types": {
+      "options": []
+    }
+  },
+  {
+    "id": 22,
+    "title": "بكج التوفير",
+    "description": "",
+    "details": ["تنظيف بشرة","حمام مغربي عادي","بدكير ومنكير"],
+    "image": "https://images.unsplash.com/photo-1487412912498-0447578fcca8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJyaWRlJTIwbWFrZXVwfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Special beauty packages",
+    "range": "SAR499",
+    "rating": 4,
+    "minPrice": 499,
+    "ordersPerDay": 2,
+    "price": 499,
+    "questions": [],
+    "types": {
+      "options": []
+    }
+  },
+
+  {
+    "id": 23,
+    "title": "بكج  المغربي",
+    "description": "",
+    "details": ["حمام مغربي  لشخصين"],
+    "image": "https://images.unsplash.com/photo-1487412912498-0447578fcca8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJyaWRlJTIwbWFrZXVwfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Special beauty packages",
+    "range": "SAR280",
+    "rating": 4,
+    "minPrice": 280,
+    "ordersPerDay": 2,
+    "price": 280,
+    "questions": [],
+    "types": {
+      "options": []
+    }
+  },
+
+  {
+    "id": 24,
+    "title": "بكج خاص",
+    "description": "",
+    "details": ["حمام مغربي","منكير وبدكير","حمام زيت"],
+    "image": "https://images.unsplash.com/photo-1487412912498-0447578fcca8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJyaWRlJTIwbWFrZXVwfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Special beauty packages",
+    "range": "SAR320",
+    "rating": 4,
+    "minPrice": 320,
+    "ordersPerDay": 2,
+    "price": 320,
+    "questions": [],
+    "types": {
+      "options": []
+    }
+  },
+
+  {
+    "id": 25,
+    "title": "بكج البشرة",
+    "description": "",
+    "details": ["حمام مغربي بقناع الطين","منكير وبدكير بدون لون","برافين يد وارجل"],
+    "image": "https://images.unsplash.com/photo-1487412912498-0447578fcca8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJyaWRlJTIwbWFrZXVwfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Special beauty packages",
+    "range": "SAR350",
+    "rating": 4,
+    "minPrice": 350,
+    "ordersPerDay": 2,
+    "price": 350,
+    "questions": [],
+    "types": {
+      "options": []
+    }
+  },
+
+  {
+    "id": 26,
+    "title": "بكج العنايه",
+    "description": "",
+    "details": ["حمام مغربي","حمام زيت للشعر","منكير وبدكير"],
+    "image": "https://images.unsplash.com/photo-1487412912498-0447578fcca8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJyaWRlJTIwbWFrZXVwfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Special beauty packages",
+    "range": "SAR329",
+    "rating": 4,
+    "minPrice": 329,
+    "ordersPerDay": 2,
+    "price": 329,
+    "questions": [],
+    "types": {
+      "options": []
+    }
+  },
+
+  {
+    "id": 27,
+    "title": "بكج المساج",
+    "description": "",
+    "details": ["مساج علاجي لشخصين لمدة ساعه"],
+    "image": "https://images.unsplash.com/photo-1487412912498-0447578fcca8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJyaWRlJTIwbWFrZXVwfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Special beauty packages",
+    "range": "SAR349",
+    "rating": 4,
+    "minPrice": 349,
+    "ordersPerDay": 2,
+    "price": 349,
+    "questions": [],
+    "types": {
+      "options": []
+    }
+  },
+
+  {
+    "id": 28,
+    "title": "بكج الدلع",
+    "description": "",
+    "details": ["تنظيف بشرة عميق","حمام مغربي","مساج لمدة 45 دقيقه"],
+    "image": "https://images.unsplash.com/photo-1487412912498-0447578fcca8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJyaWRlJTIwbWFrZXVwfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Special beauty packages",
+    "range": "SAR499",
+    "rating": 4,
+    "minPrice": 499,
+    "ordersPerDay": 2,
+    "price": 499,
+    "questions": [],
+    "types": {
+      "options": []
+    }
+  },
+
+  {
+    "id": 29,
+    "title": "بكج الاظافر",
+    "description": "",
+    "details": ["منكير وبدكير","برافين يد وارجل","لشخصين"],
+    "image": "https://images.unsplash.com/photo-1487412912498-0447578fcca8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJyaWRlJTIwbWFrZXVwfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Special beauty packages",
+    "range": "SAR429",
+    "rating": 4,
+    "minPrice": 429,
+    "ordersPerDay": 2,
+    "price": 429,
+    "questions": [],
+    "types": {
+      "options": []
+    }
+  },
+  {
+    "id": 30,
+    "title": "بكج  بسيط",
+    "description": "",
+    "details": ["منكير وبدكير","استشوار أي طول"],
+    "image": "https://images.unsplash.com/photo-1487412912498-0447578fcca8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJyaWRlJTIwbWFrZXVwfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Special beauty packages",
+    "range": "SAR269",
+    "rating": 4,
+    "minPrice": 269,
+    "ordersPerDay": 2,
+    "price": 269,
+    "questions": [],
+    "types": {
+      "options": []
+    }
+  },
+  {
+    "id": 31,
+    "title": "بكج صغير",
+    "description": "",
+    "details": ["منكير وبدكير","تنظيف بشرة عميق"],
+    "image": "https://images.unsplash.com/photo-1487412912498-0447578fcca8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJyaWRlJTIwbWFrZXVwfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Special beauty packages",
+    "range": "SAR359",
+    "rating": 4,
+    "minPrice": 359,
+    "ordersPerDay": 2,
+    "price": 359,
+    "questions": [],
+    "types": {
+      "options": []
+    }
+  },
+  {
+    "id": 32,
+    "title": "بكج التوفير",
+    "description": "",
+    "details": ["حمام مغربي عادي","مساج","حمام زيت"],
+    "image": "https://images.unsplash.com/photo-1487412912498-0447578fcca8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJyaWRlJTIwbWFrZXVwfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Special beauty packages",
+    "range": "SAR320",
+    "rating": 4,
+    "minPrice": 320,
+    "ordersPerDay": 2,
+    "price": 320,
+    "questions": [],
+    "types": {
+      "options": []
+    }
   }
 ]
 
