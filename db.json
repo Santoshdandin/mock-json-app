@@ -2379,24 +2379,24 @@
   },
 	{
     "id": 12,
-    "title": "Bride's package",
+    "title": "بكج العروس",
     "description": "",
     "details": [
-     "Swedish massage",
-     "Moroccan Bath",
-     "Body hair removal",
-     "Pedicure and manicure",
-     "Skin cleaning",
-     "Paraffin hands and feet",
-     "Hair cut",
-     " hairdo",
-     "makeup",
-     "tincture",
-     "Sweep a face",
-     "Bleaching and tinting of eyebrows",
-     "Bath Oil",
-     "price before discount-SAR 2660",
-     "The price after discount-SAR 2362 "
+      "مساج سويدي",
+      "حمام مغربي",
+      "إزالة شعر الجسم",
+      "بدكير ومناكير",
+      "تنظيف بشره",
+      "بارافين ايدي وارجل",
+      "قص شعر",
+      "تسريحة ",
+      "مكياج",
+      "صبغه",
+      "حف وجه",
+      "تشقير وصبغة حواجب",
+      "حمام زيت",
+      "السعر قبل الخصم-SAR 2660",
+      "السعر بعد الخصم-SAR 2362 "
     ],
     "image": "https://images.unsplash.com/photo-1487412912498-0447578fcca8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJyaWRlJTIwbWFrZXVwfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
     "category": "Cosmetic packages",
@@ -2405,6 +2405,123 @@
     "minPrice": 2362,
     "ordersPerDay": 2,
     "price": 2362,
+    "questions": [],
+    "types": {
+      "options": []
+    }
+  },
+  {
+    "id": 13,
+    "title": "بكج البسيط",
+    "description": "",
+    "details": [
+      "مساج سويدي",
+      "بدكير ومناكير",
+      "السعر قبل الخصم-SAR 350",
+      "السعر بعد الخصم-SAR 245 "
+    ],
+    "image": "https://images.unsplash.com/photo-1487412912498-0447578fcca8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJyaWRlJTIwbWFrZXVwfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Cosmetic packages",
+    "range": "SAR350",
+    "rating": 4,
+    "minPrice": 245,
+    "ordersPerDay": 2,
+    "price": 245,
+    "questions": [],
+    "types": {
+      "options": []
+    }
+  },
+  {
+    "id": 14,
+    "title": "بكج الفخامة",
+    "description": "",
+    "details": [
+      "إزالة شعر الجسم",
+      "مساج سويدي",
+      "بدكير ومناكير",
+      "بارافين ايدي وارجل",
+      "السعر قبل الخصم-SAR 800",
+      "السعر بعد الخصم-SAR 560"
+    ],
+    "image": "https://images.unsplash.com/photo-1487412912498-0447578fcca8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJyaWRlJTIwbWFrZXVwfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Cosmetic packages",
+    "range": "SAR560",
+    "rating": 4,
+    "minPrice": 560,
+    "ordersPerDay": 2,
+    "price": 560,
+    "questions": [],
+    "types": {
+      "options": []
+    }
+  },
+  {
+    "id": 15,
+    "title": "بكج الذهبي",
+    "description": "",
+    "details": [
+      "تنظيف بشره",
+      "حمام مغربي",
+      "بدكير ومناكير",
+      "مساج سويدي",
+      "السعر قبل الخصم-SAR 800",
+      "السعر بعد الخصم-SAR 560"
+    ],
+    "image": "https://images.unsplash.com/photo-1487412912498-0447578fcca8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJyaWRlJTIwbWFrZXVwfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Cosmetic packages",
+    "range": "SAR560",
+    "rating": 4,
+    "minPrice": 560,
+    "ordersPerDay": 2,
+    "price": 560,
+    "questions": [],
+    "types": {
+      "options": []
+    }
+  },
+  {
+    "id": 16,
+    "title": "بكج السعادة",
+    "description": "",
+    "details": [
+      "حمام مغربي",
+      "مساج سويدي",
+      "بارافين ايدي وارجل",
+      "بدكير ومناكير",
+      "السعر قبل الخصم-SAR 750",
+      "السعر بعد الخصم-SAR 525"
+    ],
+    "image": "https://images.unsplash.com/photo-1487412912498-0447578fcca8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJyaWRlJTIwbWFrZXVwfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Cosmetic packages",
+    "range": "SAR525",
+    "rating": 4,
+    "minPrice": 525,
+    "ordersPerDay": 2,
+    "price": 525,
+    "questions": [],
+    "types": {
+      "options": []
+    }
+  },
+  {
+    "id": 17,
+    "title": "بكج التوفير",
+    "description": "",
+    "details": [
+      "بارافين ايدي وارجل",
+      "بدكير ومناكير",
+      "مساج سويدي لمدة 45 دقيقة",
+      "السعر قبل الخصم-SAR 500",
+      "السعر بعد الخصم-SAR 350"
+    ],
+    "image": "https://images.unsplash.com/photo-1487412912498-0447578fcca8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJyaWRlJTIwbWFrZXVwfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Cosmetic packages",
+    "range": "SAR350",
+    "rating": 4,
+    "minPrice": 350,
+    "ordersPerDay": 2,
+    "price": 350,
     "questions": [],
     "types": {
       "options": []
