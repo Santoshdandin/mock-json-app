@@ -2794,6 +2794,487 @@
     "types": {
       "options": []
     }
+  },
+
+{
+    "id": 33,
+    "title": "باقة إزالة الشعر ",
+    "description": "",
+    "details": [
+      "جسم كامل",
+      "يد كامل",
+      "رجل كامل ",
+      "نص يد",
+      "نص رجل",
+      "وجه",
+      "شنب",
+      "بطن",
+      "تحت اليد",
+      "واكس"
+    ],
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJlYXV0eSUyMHBhY2thZ2VzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Beauty packages",
+    "range": "SAR50 - SAR350",
+    "rating": 4,
+    "min_Price": 0,
+    "ordersPerDay": 1,
+    "types": {
+      "options": []
+    },
+    "questions": [
+      {
+        "question": "باقة إزالة الشعر ",
+        "options": [
+          { "value": "جسم كامل", "price": 350 },
+          { "value": "يد كامل", "price": 100 },
+          { "value": "رجل كامل", "price": 100 },
+          { "value": "نص يد", "price": 50 },
+          { "value": "نص رجل", "price": 80 },
+          { "value": "وجه", "price": 80 },
+          { "value": "شنب", "price": 30 },
+          { "value": "بطن", "price": 70 },
+          { "value": "تحت اليد", "price": 50 },
+          { "value": "واكس", "price": 250 }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 34,
+    "title": "باقة منكير",
+    "description": "",
+    "details": [
+      "مناكير عادي",
+      "مناكير ملكي",
+      "تركيب أظافر عادي",
+      "تركيب أظافر أكريلك",
+      "لون عادي",
+      "لون فرنسي"
+    ],
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJlYXV0eSUyMHBhY2thZ2VzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Beauty packages",
+    "range": "SAR30 - SAR500",
+    "rating": 4,
+    "min_Price": 0,
+    "ordersPerDay": 1,
+    "types": {
+      "options": []
+    },
+    "questions": [
+      {
+        "question": "باقة منكير",
+        "options": [
+          { "value": "مناكير عادي", "price": 100 },
+          { "value": "مناكير ملكي", "price": 125 },
+          { "value": "تركيب أظافر عادي", "price": 180 },
+          { "value": "تركيب أظافر أكريلك", "price": 400 },
+          { "value": "لون عادي", "price": 50 },
+          { "value": "لون فرنسي", "price": 120 }
+
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 35,
+    "title": "باقة بدكير",
+    "description": "",
+    "details": [
+      "بدكير عادي",
+      "بدكير ملكي",
+      "بدكير بلاتيني"
+    ],
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJlYXV0eSUyMHBhY2thZ2VzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Beauty packages",
+    "range": "SAR80 - SAR200",
+    "rating": 4,
+    "min_Price": 0,
+    "ordersPerDay": 1,
+    "types": {
+      "options": []
+    },
+    "questions": [
+      {
+        "question": "",
+        "options": [
+          { "value": "بدكير عادي", "price": 100 },
+          { "value": "بدكير ملكي", "price": 125 },
+          { "value": "بدكير بلاتيني", "price": 200 }
+          
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 36,
+    "title": "باقة تنظيف البشرة",
+    "description": "",
+    "details": ["تنظيف بشرة عادي","تنظيف بشره عميق","تنظيف بشره مع فيتامين د","تنظيف بشرة بالكولاجين","فيشل التنظيف العميق وماسك الترطيب","فيشل قناع الذهب لأعادة الحيوية والنظاره","برنامج تقشير الكلف وازالته","جلسة الاكسجين لعلاج البشره المتعبه","جلسه قناع لشد وترطيب البشره"],
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJlYXV0eSUyMHBhY2thZ2VzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Beauty packages",
+    "range": "SAR150 - SAR500",
+    "rating": 4,
+    "min_Price": 0,
+    "ordersPerDay": 1,
+    "types": {
+      "options": []
+    },
+    "questions": [
+      {
+        "question": "",
+        "options": [
+          { "value": "تنظيف بشرة عادي", "price": 200 },
+          { "value": "تنظيف بشره عميق", "price": 250 },
+          { "value": "تنظيف بشره مع فيتامين د", "price": 300 },
+          { "value": "تنظيف بشرة بالكولاجين", "price": 175 },
+          { "value": "فيشل التنظيف العميق وماسك الترطيب", "price": 250 },
+          { "value": "فيشل قناع الذهب لأعادة الحيوية والنظاره", "price": 360 },
+          { "value": "برنامج تقشير الكلف وازالته", "price": 400 },
+          { "value": "جلسة الاكسجين لعلاج البشره المتعبه", "price": 450 },
+          { "value": "جلسه قناع لشد وترطيب البشره", "price": 480 }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 37,
+    "title": "باقة مساج",
+    "description": "",
+    "details": ["مساج عادي","مساج سويدي","مساج الأحجار","كاسات الهواء","مساج الحامل","مساج كامل الجسم","مساج النفاس","مساج الأطفال","مساج رقبة وأكتاف"],
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJlYXV0eSUyMHBhY2thZ2VzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Beauty packages",
+    "range": "SAR30 - SAR500",
+    "rating": 4,
+    "min_Price": 0,
+    "ordersPerDay": 1,
+    "types": {
+      "options": []
+    },
+    "questions": [
+      {
+        "question": "باقة مساج",
+        "options": [
+          { "value": "مساج عادي", "price": 200 },
+          { "value": "مساج سويدي", "price": 350 },
+          { "value": "مساج الأحجار", "price": 300 },
+          { "value": "كاسات الهواء", "price": 350 },
+          { "value": "مساج الحامل", "price": 300 },
+          { "value": "مساج كامل الجسم", "price": 300 },
+          { "value": "مساج النفاس", "price": 200 },
+          { "value": "مساج الأطفال", "price": 100 },
+          { "value": "مساج رقبة وأكتاف", "price": 100 }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 38,
+    "title": "باقة برافين",
+    "description": "",
+    "details": [
+      "بارافين ايدي",
+      "بارافين أرجل",
+      "بالأكواع والركب",
+      "سكراب جسم بأملاح البحر",
+      "سكراب جسم عادي",
+      "بطانيه حراريه",
+      "سكراب بخلاصة العسل",
+      "سكراب بخلاصة القهوة"
+    ],
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJlYXV0eSUyMHBhY2thZ2VzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Beauty packages",
+    "range": "SAR30 - SAR500",
+    "rating": 4,
+    "min_Price": 0,
+    "ordersPerDay": 1,
+    "types": {
+      "options": []
+    },
+    "questions": [
+      {
+        "question": "باقة برافين",
+        "options": [
+          { "value": "بارافين ايدي", "price": 150 },
+          { "value": "بارافين أرجل", "price": 200 },
+          { "value": "بالأكواع والركب", "price": 250 },
+          { "value": "سكراب جسم بأملاح البحر", "price": 400 },
+          { "value": "سكراب جسم عادي", "price": 200 },
+          { "value": "بطانيه حراريه", "price": 200 },
+          { "value": "سكراب بخلاصة العسل", "price": 200 },
+          { "value": "سكراب بخلاصة القهوة", "price": 200 }
+          
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 39,
+    "title": "باقة مكياج",
+    "description": "",
+    "details": ["مكياج عادي ", "مكياج سهره", "أساس جسم", "مكياج عيون", "مكياج كامل مع ماركه"],
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJlYXV0eSUyMHBhY2thZ2VzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Beauty packages",
+    "range": "SAR100 - SAR700",
+    "rating": 4,
+    "min_Price": 0,
+    "ordersPerDay": 1,
+    "types": {
+      "options": []
+    },
+    "questions": [
+      {
+        "question": "باقة مكياج",
+        "options": [
+          { "value": "مكياج عادي ", "price": 200 },
+          { "value": "مكياج سهره", "price": 400 },
+          { "value": "أساس جسم", "price": 100 },
+          { "value": "مكياج عيون", "price": 150 },
+          { "value": "مكياج كامل مع ماركه", "price": 700 }
+          
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 40,
+    "title": "باقة تسريحات",
+    "description": "",
+    "details": ["تسريحة شعر قصير", "شعر وسط", "شعر طويل", "فير أو تكسير", "فير ", "ريتو"],
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJlYXV0eSUyMHBhY2thZ2VzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Beauty packages",
+    "range": "SAR100 - SAR500",
+    "rating": 4,
+    "min_Price": 0,
+    "ordersPerDay": 1,
+    "types": {
+      "options": []
+    },
+    "questions": [
+      {
+        "question": "باقة تسريحات",
+        "options": [
+          { "value": "تسريحة شعر قصير", "price": 175 },
+          { "value": "شعر وسط", "price": 290 },
+          { "value": "شعر طويل", "price": 345 },
+          { "value": "فير أو تكسير", "price": 100 },
+          { "value": "فير ", "price": 250 },
+          { "value": "ريتو", "price": 250 }
+          
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 41,
+    "title": "باقة قص الشعر",
+    "description": "",
+    "details": ["قص شعر كامل", "قص أطراف شعر", "قص غره", "قص بالمكينه"],
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJlYXV0eSUyMHBhY2thZ2VzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Beauty packages",
+    "range": "SAR30 - SAR150",
+    "rating": 4,
+    "min_Price": 0,
+    "ordersPerDay": 1,
+    "types": {
+      "options": []
+    },
+    "questions": [
+      {
+        "question": "باقة قص الشعر",
+        "options": [
+          { "value": "قص شعر كامل", "price": 120 },
+          { "value": "قص أطراف شعر", "price": 85 },
+          { "value": "قص غره", "price": 40 },
+          { "value": "قص بالمكينه", "price": 120 }
+          
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 42,
+    "title": "باقة الاستشوار",
+    "description": "",
+    "details": ["استشوار عادي", "شعر قصير", "شعر طويل", "ويفي", "ليس"],
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJlYXV0eSUyMHBhY2thZ2VzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Beauty packages",
+    "range": "SAR50 - SAR350",
+    "rating": 4,
+    "min_Price": 0,
+    "ordersPerDay": 1,
+    "types": {
+      "options": []
+    },
+    "questions": [
+      {
+        "question": "باقة الاستشوار",
+        "options": [
+          { "value": "استشوار عادي", "price": 150 },
+          { "value": "شعر قصير", "price": 70 },
+          { "value": "شعر طويل", "price": 150 },
+          { "value": "ويفي", "price": 360 },
+          { "value": "ليس", "price": 310 }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 43,
+    "title": "باقة  الحواجب",
+    "description": "",
+    "details": ["رفع الحواجب", "صبغة حواجب", "تشقير حواجب"],
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJlYXV0eSUyMHBhY2thZ2VzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Beauty packages",
+    "range": "SAR30 - SAR500",
+    "rating": 4,
+    "min_Price": 0,
+    "ordersPerDay": 1,
+    "types": {
+      "options": []
+    },
+    "questions": [
+      {
+        "question": "باقة  الحواجب",
+        "options": [
+          { "value": "رفع الحواجب", "price": 414 },
+          { "value": "صبغة حواجب", "price": 40 },
+          { "value": "تشقير حواجب", "price": 40 }
+          
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 44,
+    "title": "باقة  حمام مغربي",
+    "description": "",
+    "details": ["حمام عادي", "حمام بالتوت البري", "مغربي بالأعشاب", "مغربي باللوز", "تفتيح بشره", "جلسة علاج حبوب", "مغربي بالطين", "حمام مغربي عود وعنبر"],
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJlYXV0eSUyMHBhY2thZ2VzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Beauty packages",
+    "range": "SAR30 - SAR500",
+    "rating": 4,
+    "min_Price": 0,
+    "ordersPerDay": 1,
+    "types": {
+      "options": []
+    },
+    "questions": [
+      {
+        "question": "باقة  حمام مغربي",
+        "options": [
+          { "value": "حمام عادي", "price": 200 },
+          { "value": "حمام بالتوت البري", "price": 250 },
+          { "value": "مغربي بالأعشاب", "price": 300 },
+          { "value": "مغربي باللوز", "price": 250 },
+          { "value": "تفتيح بشره", "price": 450 },
+          { "value": "جلسة علاج حبوب", "price": 450 },
+          { "value": "مغربي بالطين", "price": 150 },
+          { "value": "حمام مغربي عود وعنبر", "price": 550 }
+          
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 45,
+    "title": "باقة صبغة الشعر",
+    "description": "",
+    "details": ["لون واحد", "لونين", "صبغة جذور", "لون مع خصل"],
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJlYXV0eSUyMHBhY2thZ2VzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Beauty packages",
+    "range": "SAR30 - SAR500",
+    "rating": 4,
+    "min_Price": 0,
+    "ordersPerDay": 1,
+    "types": {
+      "options": []
+    },
+    "questions": [
+      {
+        "question": "باقة صبغة الشعر",
+        "options": [
+          { "value": "لون واحد", "price": 300 },
+          { "value": "لونين", "price": 345 },
+          { "value": "صبغة جذور", "price": 150 },
+          { "value": "لون مع خصل", "price": 500 }
+          
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 46,
+    "title": "باقة  البروتين",
+    "description": "",
+    "details": ["شعر قصير", "شعر وسط", "شعر طويل", "شعر طويل جدا", "للشعر المصبوغ", "فلير اللولو", "جلسة كافيار"],
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJlYXV0eSUyMHBhY2thZ2VzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Beauty packages",
+    "range": "SAR30 - SAR500",
+    "rating": 4,
+    "min_Price": 0,
+    "ordersPerDay": 1,
+    "types": {
+      "options": []
+    },
+    "questions": [
+      {
+        "question": "باقة  البروتين",
+        "options": [
+          { "value": "شعر قصير", "price": 500 },
+          { "value": "شعر وسط", "price": 700 },
+          { "value": "شعر طويل", "price": 1000 },
+          { "value": "شعر طويل جدا", "price": 1200 },
+          { "value": "للشعر المصبوغ", "price": 700 },
+          { "value": "فلير اللولو", "price": 250 },
+          { "value": "جلسة كافيار", "price": 300 }
+          
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 47,
+    "title": "باقة حمام زيت",
+    "description": "",
+    "details": ["حمام زيت عادي", "ماسك للشعر", "كولاجين للشعر", "تقشير الفروه", "جلسة الأرجان", "جلسة تطهير فروة الرأس", "بعد البروتين", "الشعر المصبوغ"],
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJlYXV0eSUyMHBhY2thZ2VzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Beauty packages",
+    "range": "SAR30 - SAR900",
+    "rating": 4,
+    "min_Price": 0,
+    "ordersPerDay": 1,
+    "types": {
+      "options": []
+    },
+    "questions": [
+      {
+        "question": "باقة حمام زيت",
+        "options": [
+          { "value": "حمام زيت عادي", "price": 110 },
+          { "value": "ماسك للشعر", "price": 50 },
+          { "value": "كولاجين للشعر", "price": 800 },
+          { "value": "تقشير الفروه", "price": 250 },
+          { "value": "جلسة الأرجان", "price": 300 },
+          { "value": "جلسة تطهير فروة الرأس", "price": 300 },
+          { "value": "بعد البروتين", "price": 380 },
+          { "value": "الشعر المصبوغ", "price": 350 }
+        ]
+      }
+    ]
   }
 ]
 
