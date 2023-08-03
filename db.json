@@ -2798,7 +2798,7 @@
 
 {
     "id": 33,
-    "title": "باقة إزالة الشعر ",
+    "title": "باقة إزالة الشعر",
     "description": "",
     "details": [
       "جسم كامل",
@@ -3253,6 +3253,36 @@
     "details": ["حمام زيت عادي", "ماسك للشعر", "كولاجين للشعر", "تقشير الفروه", "جلسة الأرجان", "جلسة تطهير فروة الرأس", "بعد البروتين", "الشعر المصبوغ"],
     "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJlYXV0eSUyMHBhY2thZ2VzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
     "category": "Beauty packages",
+    "range": "SAR30 - SAR900",
+    "rating": 4,
+    "min_Price": 0,
+    "ordersPerDay": 1,
+    "types": {
+      "options": []
+    },
+    "questions": [
+      {
+        "question": "باقة حمام زيت",
+        "options": [
+          { "value": "حمام زيت عادي", "price": 110 },
+          { "value": "ماسك للشعر", "price": 50 },
+          { "value": "كولاجين للشعر", "price": 800 },
+          { "value": "تقشير الفروه", "price": 250 },
+          { "value": "جلسة الأرجان", "price": 300 },
+          { "value": "جلسة تطهير فروة الرأس", "price": 300 },
+          { "value": "بعد البروتين", "price": 380 },
+          { "value": "الشعر المصبوغ", "price": 350 }
+        ]
+      }
+    ]
+  },
+	{
+    "id": 48,
+    "title": "باقة حمام زيت",
+    "description": "",
+    "details": ["حمام زيت عادي", "ماسك للشعر", "كولاجين للشعر", "تقشير الفروه", "جلسة الأرجان", "جلسة تطهير فروة الرأس", "بعد البروتين", "الشعر المصبوغ"],
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJlYXV0eSUyMHBhY2thZ2VzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "1",
     "range": "SAR30 - SAR900",
     "rating": 4,
     "min_Price": 0,
